@@ -1,2 +1,2 @@
 # hello-world
-First Repository to learn ABC
+First Repository to learn github repository
